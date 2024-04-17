@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlotteeuw&label=Profile%20views&color=0e75b6&style=flat" alt="charlotteeuw" /> </p>
 
-- 🔭 I’m currently working on [Epitech Projects](https://github.com/charlotteeuw/Epitech-Tek1)
+- 🔭 My latest project is [A-maze-d](https://github.com/charlotteeuw/Epitech-Tek1)
 
 - 📫 How to reach me **charlotte.weston@epitech.eu**
 
