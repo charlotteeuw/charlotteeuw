@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charlotteeuw&label=Profile%20views&color=0e75b6&style=flat" alt="charlotteeuw" /> </p>
 
-- 🔭 My latest project is [RPG](https://github.com/charlotteeuw/RPG)
-
 - 📫 How to reach me **charlotte.weston@epitech.eu**
 
 <h3 align="left">Connect with me:</h3>
